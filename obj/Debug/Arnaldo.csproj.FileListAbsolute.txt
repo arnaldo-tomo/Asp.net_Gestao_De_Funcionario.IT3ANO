@@ -1,0 +1,5 @@
+c:\users\arnaldo tomo\documents\visual studio 2012\Projects\Arnaldo\Arnaldo\bin\Arnaldo.dll
+c:\users\arnaldo tomo\documents\visual studio 2012\Projects\Arnaldo\Arnaldo\bin\Arnaldo.pdb
+c:\users\arnaldo tomo\documents\visual studio 2012\Projects\Arnaldo\Arnaldo\obj\Debug\Arnaldo.csprojResolveAssemblyReference.cache
+c:\users\arnaldo tomo\documents\visual studio 2012\Projects\Arnaldo\Arnaldo\obj\Debug\Arnaldo.dll
+c:\users\arnaldo tomo\documents\visual studio 2012\Projects\Arnaldo\Arnaldo\obj\Debug\Arnaldo.pdb
