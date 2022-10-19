@@ -25,22 +25,27 @@
         </a></li>
         <li><a href="funcionario.aspx">
           <i class="fas fa-plus"></i>
-            Funcionario
+            Adcionar Item
           <span class="nav-item"></span>
         </a></li>
         <li><a href="#">
           <i class="fas fa-plus"></i>
-            Funcionario
-          <span class="nav-item"></span>
+            Actualizar Item
+          <span class="nav-pincel"></span>
         </a></li>
         <li><a href="#">
-          <i class="fas fa-plus"></i>
-            Funcionario
+          <i class="fas fa-trash"></i>
+            Apagar Item
           <span class="nav-item"></span>
         </a></li>
         <li><a href="definicao.aspx">
-          <i class="fas fa-cog"></i>
-           Definicao
+          <i class="fas fa-check"></i>
+           Item Pago 
+          <span class="nav-item"></span>
+        </a></li>
+           <li><a href="definicao.aspx">
+          <i class="fas fa-money"></i>
+           Item Nao Pago 
           <span class="nav-item"></span>
         </a></li>
 
